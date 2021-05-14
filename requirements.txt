@@ -1,4 +1,4 @@
 pyzmq==4.0.9
-request==2.1.0
+requests==2.1.0
 
 
